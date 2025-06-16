@@ -1,7 +1,7 @@
 import requests
 import time
 
-invite_url = 'https://www.gookaito.com/ref?link=Z14ecFt'
+invite_url = '邀请链接'
 wallet_url = 'https://www.gookaito.com/api/wallets'
 
 # 读取地址
